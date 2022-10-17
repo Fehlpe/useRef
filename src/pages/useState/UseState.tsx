@@ -15,7 +15,7 @@ function UseState() {
 
   return (
     <>
-      <h1>useRef</h1>
+      <h1>useState</h1>
       <button onClick={increaseCounter}>Clicar</button>
       &nbsp;
       <button onClick={showCounter}>Quantas vezes o botão foi clicado</button>
